@@ -1,0 +1,16 @@
+-- ============================================
+--  Credits: K3rnelPan1c (KernelOS / !K3rnalyze)
+--  Discord: https://discord.gg/k3rnalyze
+--  Website: https://kernelos.org/games
+-- ============================================
+
+addappid(427520)
+addappid(427521,0,"313aabe725a369c7112e56db4fb78556f9fe5d8a1e599833000c4b3a29ceb0f4")
+addappid(427522,0,"e595c19750b6343a6790b2d19c9edd29f5f910dbd5d5d98d42944bb3474342f5")
+addappid(427523,0,"da6be217fa0d138b92f96b6f6a825fe3d0d271bfe7125601eaa4f66c818ceecb")
+addappid(427524,0,"3b9ae6dba8cff0e5061fa6c28a67f22b7750064913db9499570a9e8edaa29aac")
+addappid(427525,0,"4cf6a64823e9240f302d20a5428fdade384b312b0f55c87aaebd14bf62beb353")
+addappid(645390)
+addappid(645391,0,"e1e840cb840b8d382a84e6cc0443393d76f99ab19ee8afd3a61a0b414fc5ac9f")
+addappid(645392,0,"a7b9074d3a2634bc9163847fe1ae9cfb0ad55a286a6c32b67289f2a07e2e654f")
+addappid(645393,0,"df5808d5e8ae3a9cce0454d6f6968c6f200e4d28a4cd2a4ba4f8be1426ad7ff4")
